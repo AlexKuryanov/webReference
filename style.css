@@ -33,3 +33,23 @@ p {
 .font__bold {
   font-weight: 700;
 }
+
+.wonders-list {  
+  width: 550px;
+  
+  background-color: #b18979;
+  color: white;
+  list-style: none;
+  border-radius: 10px;
+  padding: 0;
+  font-size: 24px;
+}
+
+.wonders-item {
+  border-bottom: 2px solid white;  
+  padding: 20px;
+}
+
+.wonders-item:last-child {
+  border-bottom: none;
+}
