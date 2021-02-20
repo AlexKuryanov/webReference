@@ -21,4 +21,7 @@ here are my solutions of tasks from WebReference source
     ![](images/table-border.png)
     1. Solution: [https://alexkuryanov.github.io/webReference/border2.html](https://alexkuryanov.github.io/webReference/border2.html)
 1. Third task
-    1. Task   
+    1. Task: Придумайте три способа создания рамки, показанной на рис.
+    ![](images/border2.png)
+    1. Solution: [https://alexkuryanov.github.io/webReference/border3.html](https://alexkuryanov.github.io/webReference/border3.html)
+    
