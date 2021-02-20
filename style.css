@@ -3,7 +3,9 @@ body {
   width: 1400px;
   margin: 0 auto;
 }
-
+/*
+padding 1
+*/
 p {
   font-size: 30px;
   font-weight: 400;
@@ -33,7 +35,9 @@ p {
 .font__bold {
   font-weight: 700;
 }
-
+/* 
+padding-2
+*/
 .wonders-list {  
   width: 550px;
   
