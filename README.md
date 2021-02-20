@@ -19,4 +19,6 @@ here are my solutions of tasks from WebReference source
 1. Second task
     1. Task: Создайте таблицу, как показано на рис.    
     ![](images/table-border.png)
-    1. 1. Solution: [https://alexkuryanov.github.io/webReference/border2.html](https://alexkuryanov.github.io/webReference/border2.html)
+    1. Solution: [https://alexkuryanov.github.io/webReference/border2.html](https://alexkuryanov.github.io/webReference/border2.html)
+1. Third task
+    1. Task   
