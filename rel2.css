@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f6f2;
+}
+
+.box1 {
+  background-color: #a1bd57;
+  height: 50vh;
+}
+
+.box2 {
+  background-color: #fff;
+  width: 50%;
+  min-height: 50vh;
+  border: 3px solid #dad6cf;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
