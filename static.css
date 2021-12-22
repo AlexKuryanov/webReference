@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #f5f4f1;
+}
+
+.form {
+  width: 300px;
+  margin: 20px auto;
+  padding: 30px 50px;
+  background: white;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.form__title {
+  text-align: center;
+  font-variant: small-caps;
+}
+
+#login,
+#password {
+  width: 100%;
+  padding: 5px;
+  box-sizing: border-box;
+  border: 1px solid #dddddd;
+}
+
+.remember {
+  text-align: right;
+  font-style: italic;
+}
+
+.btn {
+  width: 100%;
+  background: #bc8e5c;
+  border: none;
+  padding: 10px;
+  color: white;
+}
