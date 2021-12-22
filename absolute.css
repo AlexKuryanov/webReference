@@ -1,0 +1,21 @@
+.third,
+.seventh,
+.ace {
+  position: absolute;
+  margin: auto;
+  left: 50%;
+  top: 50px;
+  transform-origin: bottom;
+}
+
+.third {
+  transform: rotate(-15deg);
+}
+
+.ace {
+  transform: rotate(15deg);
+}
+
+img:hover {
+  z-index: 2;
+}
