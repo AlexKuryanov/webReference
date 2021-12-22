@@ -1,0 +1,36 @@
+.block {
+  padding: 10px 30px;
+  background-color: #795548;
+}
+
+.block__title {
+  color: #feea3b;
+  text-align: center;
+  overflow: hidden;
+}
+
+.block__title::before,
+.block__title::after {
+  content: "";
+  display: inline-block;
+  background-color: #feea3b;
+  height: 1px;
+  width: 50%;
+  vertical-align: middle;
+  position: relative;
+}
+
+.block__title::before {
+  margin-left: -50%;
+  right: 10px;
+}
+
+.block__title::after {
+  margin-right: -50%;
+  left: 10px;
+}
+
+.block__text {
+  color: white;
+  text-align-last: left;
+}
