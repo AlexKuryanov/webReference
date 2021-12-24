@@ -1,0 +1,38 @@
+.pic {
+  float: left;
+  position: relative;
+}
+
+.pic::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 180px;
+  top: -45px;
+  width: 80px;
+  height: 65px;
+  background-color: #fff;
+  border-bottom: 1.5px dashed #444;
+  box-shadow: 0 2px 0 0 #fff,
+    0 16px 8px -8px #444;
+  transform: rotate(45deg);
+}
+
+.pic::after {
+  content: "";
+  display: block;
+  position: absolute;
+  left: -55px;
+  bottom: -40px;
+  width: 80px;
+  height: 65px;
+  background-color: #fff;
+  border-top: 1.5px dashed #444;
+  box-shadow: 0 -2px 0 0 #fff, 0 -16px 8px -8px #444;
+  transform: rotate(45deg);
+}
+
+.pic__img {
+  border: 5px solid #f1e7e7;
+  outline: 2px solid #787878;
+}
