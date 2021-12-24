@@ -1,6 +1,7 @@
 .pic {
-  float: left;
+  display: inline-block;
   position: relative;
+  margin-bottom: 50px;
 }
 
 .pic::before {
@@ -35,4 +36,19 @@
 .pic__img {
   border: 5px solid #f1e7e7;
   outline: 2px solid #787878;
+}
+
+.img {
+  display: inline-block;
+  position: relative;
+}
+
+.img__thumb-2 {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 5px;
+  border: 1px solid #000;
+  background-color: rgba(255, 255, 255, .5);
+  cursor: pointer;
 }
