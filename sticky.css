@@ -1,3 +1,7 @@
+body {
+  min-height: 1500px;
+}
+
 .wrap {
   width: 1440px;
   margin: 50px auto 0;
@@ -20,4 +24,41 @@
 .nav__link {
   color: white;
   text-decoration: none;
+}
+
+.header {
+  background-color: #000;
+  text-align: center;
+}
+
+.header__title {
+  color: #fff;
+  padding: 30px;
+}
+
+.main {
+  min-height: 1500px;
+  max-width: 74%;
+  margin: 0 auto;
+  height: 100%;
+  box-shadow: 0 0 20px 0 #e7e7e7;
+  padding: 10px 20px;
+}
+
+.socials {
+  float: left;
+  list-style: none;
+  position: sticky;
+  top: 10px;
+  left: 10px;
+  margin-right: 20px;
+}
+
+.footer {
+  background-color: #000;
+}
+
+.foot-text {
+  color: #fff;
+  padding: 15px;
 }
