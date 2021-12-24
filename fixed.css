@@ -3,6 +3,7 @@
   margin: 0 auto;
   min-height: 1500px;
 }
+
 .aside-nav {
   width: 200px;
   position: fixed;
@@ -20,4 +21,19 @@
 
 .nav__link {
   color: black;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: black;
+  color: white;
+}
+
+p {
+  padding: 30px;
+  display: inline-block;
+  vertical-align: middle;
 }
