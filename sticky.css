@@ -1,0 +1,23 @@
+.wrap {
+  width: 1440px;
+  margin: 50px auto 0;
+  min-height: 1500px;
+}
+
+.main-nav {
+  position: sticky;
+  top: 0;
+}
+
+.nav__list {
+  list-style: none;
+  display: flex;
+  column-gap: 20px;
+  padding: 20px;
+  background-color: fuchsia;
+}
+
+.nav__link {
+  color: white;
+  text-decoration: none;
+}
