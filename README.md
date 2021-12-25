@@ -2,26 +2,12 @@
 
 here are my solutions of tasks from WebReference source
 
-## Padding
-1. First task: 
-    1. Task: Создайте веб-страницу, как показано на рис.    
-    ![](images/font-weight.png)
-    1. Solution: [https://alexkuryanov.github.io/webReference/padding.html](https://alexkuryanov.github.io/webReference/padding.html)
-1. Second task:
-    1. Task: Cоздайте веб-страницу, как показано на рис.    
-    ![](images/padding.png)
-    1. Solution: [https://alexkuryanov.github.io/webReference/padding2.html](https://alexkuryanov.github.io/webReference/padding2.html)
-## Border
-1. First task
-    1. Task: Создайте блок с рамкой, как показано на рис.     
-    ![](images/border.png)    
-    1. Solution: [https://alexkuryanov.github.io/webReference/border1.html](https://alexkuryanov.github.io/webReference/border1.html)
-1. Second task
-    1. Task: Создайте таблицу, как показано на рис.    
-    ![](images/table-border.png)
-    1. Solution: [https://alexkuryanov.github.io/webReference/border2.html](https://alexkuryanov.github.io/webReference/border2.html)
-1. Third task
-    1. Task: Придумайте три способа создания рамки, показанной на рис.
-    ![](images/border2.png)
-    1. Solution: [https://alexkuryanov.github.io/webReference/border3.html](https://alexkuryanov.github.io/webReference/border3.html)
+## Block-sizing
+1. First task:
+    1. Task: Создайте форму, показанную на рис.
 
+    1. Solution:
+1. Second task:
+    1. Task: Создайте веб-страницу, как показано на рис. 1. Ширина и высота блока заданы в пикселях.
+
+    1. Solution:
