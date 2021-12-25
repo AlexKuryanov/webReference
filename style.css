@@ -11,3 +11,19 @@ td {
 tr td:nth-of-type(3) {
   text-align: center;
 }
+
+.weather {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.w-card {
+  float: left;
+  background-color: blue;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  padding: 15px;
+  color: white;
+}
